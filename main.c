@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Function.h" //此种添加外部定义函数的方式主要受到VS影响
+#include "Function.h" 
 
 int length_stu = 0; //链表长度
 
